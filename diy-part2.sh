@@ -11,12 +11,12 @@
 #
 
 # Modify default IP
-rm -rf feeds/luci/applications/luci-app-argon-config
+#rm -rf feeds/luci/applications/luci-app-argon-config
 rm -rf feeds/luci/applications/luci-app-openclash
 rm -rf feeds/luci/applications/luci-app-vssr
 rm -rf feeds/luci/applications/luci-app-ssr-plus
 rm -rf feeds/luci/applications/luci-app-passwall
-rm -rf feeds/luci/themes/luci-theme-argon
+#rm -rf feeds/luci/themes/luci-theme-argon
 rm -rf feeds/packages/net/chinadns-ng
 rm -rf feeds/packages/net/v2ray-core
 rm -rf feeds/packages/net/v2ray-plugin
